@@ -1,0 +1,14 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "Simple CORS proxy server",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "John Sharifi",
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
